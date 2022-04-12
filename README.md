@@ -16,23 +16,21 @@
 ✔ Completed
 
 ## **Project Sample Screen Shot(s)**  
-<!-- <hr>
+<hr>
 <h5 align="center">User Interaction</h5>
 <hr>
-<img align="left" width="400" height="500" src="https://i.postimg.cc/C5zQvSxJ/Home-Page.png">
-<img width="400" height="500" src="https://i.postimg.cc/63WYytsz/Products-Page.png">
-<img align="left" width="400" height="500" src="https://i.postimg.cc/qvg9mcz4/Category-Page.png">
-<img width="400" height="500" src="https://i.postimg.cc/X7r8mscH/Contact-Us-Page.png">
-<img align="left" width="400" height="200" src="https://i.postimg.cc/k4D6Gp5L/Login-Page.png">
-<img width="400" height="200" src="https://i.postimg.cc/BZBtTF8m/Sign-Up-Page.png">
+<img align="left" width="400" height="500" src="https://i.postimg.cc/Cxm6t09f/Home-Page.png">
+<img width="400" height="500" src="https://i.postimg.cc/8zKt4HrR/Foods-Page.png">
+<img align="left" width="400" height="400" src="https://i.postimg.cc/Hng2nvfg/Category-Page.png">
+<img width="400" height="400" src="https://i.postimg.cc/yYnP6PjM/Order-Now-Page.png">
 <hr>
 <h5 align="center">Admin Panel</h5>
 <hr>
-<img align="left" width="400" height="300" src="https://i.postimg.cc/5N5GNxRY/Admin-Login-Page.png">
-<img width="400" height="300" src="https://i.postimg.cc/Rh2nk5cv/Admin-Dashboard.png">
-<img align="left" width="400" height="500" src="https://i.postimg.cc/XYg766W4/Admin-Add-Product-Page.png">
-<img width="400" height="500" src="https://i.postimg.cc/s23K67jw/Admin-All-Products.png">
-<br><br><br> -->
+<img align="left" width="400" height="300" src="https://i.postimg.cc/BbMfVQSG/Admin-Login.png">
+<img width="400" height="300" src="https://i.postimg.cc/KzfWZqdP/Admin-Dashboard.png">
+<img align="left" width="400" height="400" src="https://i.postimg.cc/zXsx1Yym/Admin-Manage-Foods-Page.png">
+<img width="400" height="400" src="https://i.postimg.cc/ZR5cLTMN/Admin-Manage-Orders-Page.png">
+<br><br><br>
 
 
 Thank You 😊, Have a Nice Day 🖤
