@@ -14,7 +14,7 @@
 
 ## **Project Status**
 ✔ Completed
-- User Side 👉 [wowFood](https://wowfood6342.000webhostapp.com/index.php)
+- User Side 👉 [wowFood](https://wowfood6342.000webhostapp.com/)
 - Admin Side 👉 [wowFood Admin](https://wowfood6342.000webhostapp.com/admin/login.php)
 
 ## **Project Sample Screen Shot(s)**  
