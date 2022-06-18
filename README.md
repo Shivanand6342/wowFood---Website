@@ -1,5 +1,5 @@
 # wowFood--Website
-- Food Ordering Website using HTML, CSS, JavaScript (for FrontEnd) and PHP, MySQL (for BackEnd).
+- Food Ordering Website using HTML, CSS, JavaScript, Bootstrap, jQuery (for FrontEnd) and PHP, MySQL (for BackEnd).
 - As name suggests, its a food ordering website where I have categoriezed foods into 3 different Categories 
   * Pizza
   * Burger
